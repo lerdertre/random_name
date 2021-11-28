@@ -15,4 +15,5 @@
 下载软件请[点我](https://github.com/lerdertre/random_name/releases "点我进入发布界面")
 
 ---
+
 欢迎[提Issues](https://github.com/lerdertre/random_name/issues "点我提Issues")
